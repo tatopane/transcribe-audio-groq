@@ -1,0 +1,8 @@
+.DS_Store
+venv/
+*.m4a
+*.mp4
+transcripts/*
+.venv/
+__pycache__
+.env
